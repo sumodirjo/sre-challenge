@@ -1,0 +1,7 @@
+server:
+  port: ":3000"
+logging:
+  level: "info"
+database:
+  uri: "mongodb://mongodb:27017"
+  name: "virtual_pets_db"
